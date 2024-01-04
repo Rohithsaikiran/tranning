@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title>anchor tag</title>
+    </head>
+    <body>
+        <center>Anchor Tag in Html</center>
+        <a href="https://www.aec.edu.in" target="_blank">click here</a>
+        <a href="paragraph tag.html" target="_blank">index page</a>
+        <a href="heading.html" target="_blank">heading page</a>
+        <a href="list.html" target="_blank">list tag</a>
+        
