@@ -1,0 +1,30 @@
+table{
+    border: 2px solid;
+    height: 300px;
+    width: 300px;
+    background-color: lightblue;
+}
+.a{
+    text-align: center;
+    border-right: 1px solid  black;
+    border-bottom:1px solid black;
+   
+}
+.b{
+    text-align: center;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+.c{
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+#col1{
+    border-right: 1px solid black;
+}
+#col2{
+    border-right: 1px solid black;
+}
+*{
+    font-size: 50px;
+}
