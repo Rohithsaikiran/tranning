@@ -1,0 +1,32 @@
+.a{
+    height: 1050px;
+    width: 920px;
+    border: 1px solid black;
+}
+.b{
+    height: 100px;
+    width: 920px;
+    border: 1px solid black;
+    float: left;
+}
+.b1{
+    height: 50px;
+    width: 120px;
+    background-color: rgba(0, 128, 0, 0.912);
+    margin-top: 30px;
+    color: white;
+}
+.b2{
+    height: 50px;
+    width: 120px;
+    background-color: lightblue;
+    margin-top: 30px;
+    color: white;
+}
+select{
+    height: 50px;
+    width: 120px;
+    background-color: red;
+    margin-top: 30px;
+    color: white;
+}

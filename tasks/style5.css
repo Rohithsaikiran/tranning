@@ -1,0 +1,97 @@
+.a{
+    height: 850px;
+    width: 900px;
+    border:1px solid white;
+    margin-left: 250px;
+    margin-top: 60px;
+    background-color: rgba(148,101,233,255);
+}
+.b{
+    height: 120px;
+    width: 900px;
+    border: 0px solid white;
+    float: left;
+}
+.c{
+    height: 728px;
+    width: 900px;
+    border: 1px solid white;
+    float: left;
+}
+.c1{
+    height: 300px;
+    width: 250px;
+    border: 1px solid white;
+    float: left;
+    margin-top: 10px;
+    margin-left: 35px;
+    background-color: white;
+    border-radius: 15px;
+}
+.c2{
+    height: 300px;
+    width: 250px;
+    border: 1px solid white;
+    float: left;
+    margin-top:10px;
+    margin-left: 35px;
+    background-color: white;
+    border-radius: 15px;
+}
+.c3{
+    height: 300px;
+    width: 250px;
+    border: 1px solid white;
+    float: left;
+    margin-top:10px;
+    margin-left: 35px;
+    background-color: white;
+    border-radius: 15px;
+}
+.c4{
+    height:300px ;
+    width: 250px;
+    border: 1px solid white;
+    float: left;
+    margin-top: 20px;
+    margin-left: 35px;
+    background-color: white;
+    border-radius: 15px;
+}
+.c5{
+    height:300px ;
+    width: 250px;
+    border: 1px solid white;
+    float: left;
+    margin-top: 20px;
+    margin-left: 35px;
+    background-color: white;
+    border-radius: 15px;
+
+}
+.c6{
+    height:300px ;
+    width: 250px;
+    border: 1px solid white;
+    float: left;
+    margin-top: 20px;
+    margin-left: 35px;
+    background-color: white;
+    border-radius: 15px;
+}
+#one{
+    color: rgba(148,101,233,255);
+}
+#two{
+    font-size: smaller;
+}
+#three{
+    
+    border: 1px solid white;
+    border-radius: 15px;
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    padding: 5px;
+    background-color: rgba(148,101,233,255);
+}
